@@ -1,5 +1,7 @@
-public class HelloWorld {
+import java.util.Scanner;
+
+public class PersonalGreeting {
     public static void main(String[] args) {
-        System.out.println("Yooooo, HelloWorld!");
+        Scanner scanner = new Sccaner(System.in);
     }
 }
